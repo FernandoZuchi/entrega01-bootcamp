@@ -1,9 +1,9 @@
 # Documento de Requisitos do Task Manager
 
 Esta documentação tem como objetivo detalhar os requisitos para o desenvolvimento de um Sistema de Gerenciamento de Tarefas (SGT). O sistema será uma aplicação web desenvolvida com ASP.NET MVC, que visa facilitar o gerenciamento de tarefas por meio de uma interface intuitiva, oferecendo funcionalidades para criação, edição, visualização e exclusão de tarefas. Este projeto faz parte de um treinamento, e contempla três módulos já abordados: 
-  1 - Introdução ao ASP.NET MVC.
-  2 - Roteamento no ASP.NET MVC.
-  3 - HTML Helpers no ASP.NET MVC.
+- 1: Introdução ao ASP.NET MVC.
+- 2: Roteamento no ASP.NET MVC.
+- 3: HTML Helpers no ASP.NET MVC.
 
 ## Objetivo
 
